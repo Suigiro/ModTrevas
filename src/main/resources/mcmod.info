@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Trevas",
+  "name": "Trevas Mod",
+  "description": "Este mod é baseado em um RPG brasileiro que eu gosto muito e espero que gostem",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Luiz Fernando de Souza"],
+  "credits": "Aos tutorias que assisti e aos Editores de Trevas que fizeram um RPG na qual eu me basiei para criar este mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
